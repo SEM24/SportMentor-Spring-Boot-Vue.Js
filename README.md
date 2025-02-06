@@ -1,4 +1,5 @@
-# SportMentor
+# SportMentor  
+<img src="https://github.com/user-attachments/assets/854e058d-8f8d-484a-afda-a01f675e8eae" width="200" />
 
 SportMentor is an innovative online platform for training and personal coaching. It combines a library of video lessons, online consultations, personalized training tools, and a community for users to share their experiences.
 

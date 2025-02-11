@@ -4,7 +4,7 @@
 SportMentor is an innovative online platform for training and personal coaching. It combines a library of video lessons, online consultations, personalized training tools, and a community for users to share their experiences.
 
 ## 🚀 Features
-- **User Authentication** (Keycloak-based OAuth2, JWT)
+- **User Authentication** (Keycloak-based OAuth)
 - **Training Library** (Video lessons, categorization, tags)
 - **Booking System** (Schedule personal training sessions)
 - **Payment Integration** (Stripe/PayPal for transactions)
@@ -19,6 +19,7 @@ SportMentor is an innovative online platform for training and personal coaching.
 - RabbitMQ (Message Broker for async tasks)
 - Kafka (Event-driven communication)
 - Docker & Kubernetes (Deployment & Scaling)
+- Eureka Server (Service registry to auto-detect services)
 
 ### **Frontend**
 - Vue.js + Vite

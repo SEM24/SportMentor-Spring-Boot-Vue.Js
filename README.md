@@ -17,9 +17,9 @@ SportMentor is an innovative online platform for training and personal coaching.
 - PostgreSQL, Hibernate (JPA)
 - Keycloak (Authentication & Authorization)
 - RabbitMQ (Message Broker for async tasks)
-- Kafka (Event-driven communication)
 - Docker & Kubernetes (Deployment & Scaling)
 - Eureka Server (Service registry to auto-detect services)
+- In future: Kafka (Event-driven communication)
 
 ### **Frontend**
 - Vue.js + Vite
